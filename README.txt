@@ -5,6 +5,8 @@ twitter @osd_it contact@opensensersdata.it
 per aggiungerli alla propria applicazione Telegram andare all'indirizzo 
 
 http://telegram.me/addstickers/archeo
+http://telegram.me/addstickers/opensensorsdata
+http://telegram.me/addstickers/stocazzo_blaster
 
 
 Update 24-9-2015
