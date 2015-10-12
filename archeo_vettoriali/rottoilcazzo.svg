@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="305.31901"
+     inkscape:cx="5.31901"
      inkscape:cy="396.2585"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,46 +58,10 @@
      id="layer1"
      transform="translate(0,-540.36216)">
     <text
-       sodipodi:linespacing="125%"
-       id="text4543"
-       y="902.85938"
-       x="-4.4351821"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:203.65454102px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:7.83571529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan4545"
-         style="font-size:203.65454102px;stroke-width:7.83571529"
-         y="902.85938"
-         x="-4.4351821"
-         sodipodi:role="line">ROTTO</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:159.62982178px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.14184141;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="-3.4763973"
-       y="1046.6411"
-       id="text4547"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="-3.4763973"
-         y="1046.6411"
-         style="font-size:159.62982178px;stroke-width:6.14184141"
-         id="tspan4549">IL CAZZO</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4408"
-       y="613.95862"
-       x="139.19705"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:90.88618469px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.49689341;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan4410"
-         style="font-size:90.88618469px;stroke-width:3.49689341"
-         y="613.95862"
-         x="139.19705"
-         sodipodi:role="line">MI HAI </tspan></text>
-    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="48.935825"
-       y="613.73895"
+       x="416.07867"
+       y="582.31036"
        id="text4159"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/Users/lucacorsato/Documents/osd/website/stickerstelegram/archeo/rovine.png"
@@ -105,23 +69,59 @@
        inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan4161"
-         x="48.935825"
-         y="613.73895">@osd_it finxit</tspan></text>
+         x="416.07867"
+         y="582.31036">@osd_it finxit</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4543"
+       y="914.6803"
+       x="-3.7986758"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:129.83255005px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.0529747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4545"
+         style="font-size:129.83255005px;stroke-width:3.0529747;stroke-miterlimit:4;stroke-dasharray:none"
+         y="914.6803"
+         x="-3.7986758"
+         sodipodi:role="line">ROTTO</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:129.60105896px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.98646879;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="31.413008"
-       y="727.16614"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:129.83255005px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.0529747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="-3.7986553"
+       y="1048.6803"
+       id="text4547"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-3.7986553"
+         y="1048.6803"
+         style="font-size:129.83255005px;stroke-width:3.0529747;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan4549">IL CAZZO</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4408"
+       y="648.83289"
+       x="-3.9209464"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:135.27864075px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.05853748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4410"
+         style="font-size:135.27864075px;stroke-width:3.05853748;stroke-miterlimit:4;stroke-dasharray:none"
+         y="648.83289"
+         x="-3.9209464"
+         sodipodi:role="line">HAI </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:129.83255005px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.0529747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="-3.7986543"
+       y="780.68024"
        id="text4198"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="31.413008"
-         y="727.16614"
-         style="font-size:129.60105896px;stroke-width:4.98646879"
+         x="-3.7986543"
+         y="780.68024"
+         style="font-size:129.83255005px;stroke-width:3.0529747;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan4404">PROPRIO</tspan></text>
     <g
        id="g4477"
-       transform="matrix(0.35127067,0,0,0.35127067,-26.217965,511.45082)">
+       transform="matrix(0.35127067,0,0,0.35127067,88.931888,511.45082)">
       <path
          style="fill:#dae1d9"
          d="m 621.8222,1537.6747 c -0.6176,-1.2032 -1.49059,-8.9189 -1.93996,-17.146 -0.44939,-8.2272 -1.28647,-15.4279 -1.86018,-16.0017 -2.26375,-2.2637 -14.51575,-4.4445 -27.24814,-4.85 l -13.39024,-0.4263 -6.36079,19.3578 c -4.5141,13.7378 -6.96403,19.474 -8.43858,19.758 -1.14278,0.2202 -6.33952,-3.0976 -11.54832,-7.3727 l -9.47053,-7.7729 -16.94564,-2.9084 -16.94563,-2.9082 -15.22102,-10.4625 c -13.08233,-8.9925 -17.85556,-11.4393 -33.97102,-17.4136 -26.39763,-9.7864 -40.44056,-16.5182 -41.77401,-20.0254 -0.59598,-1.5675 -2.26877,-10.2923 -3.7173,-19.3881 -2.36192,-14.8315 -2.6303,-21.6635 -2.60087,-66.2078 0.0181,-27.3184 0.55501,-61.2691 1.19323,-75.4462 l 1.16042,-25.7764 5.19054,-13.5986 c 7.68629,-20.1371 9.92555,-34.6255 9.9105,-64.1228 -0.007,-13.4617 -0.83964,-31.7882 -1.85061,-40.7257 -2.862,-25.3015 -2.45063,-39.1875 1.84751,-62.3636 2.05392,-11.0751 6.76858,-30.2614 10.47702,-42.6364 8.2466,-27.5189 10.22822,-41.839 9.01812,-65.16959 -0.7822,-15.08074 -1.35993,-18.06401 -6.41955,-33.14925 l -5.56,-16.5771 0,-38.51838 0,-38.51837 -4.57304,-18.26788 -4.57305,-18.26788 -9.62845,-10.93445 -9.62845,-10.93447 -2.35727,-12.33133 c -1.2965,-6.78224 -2.25944,-16.40635 -2.13988,-21.38693 0.19272,-8.02787 0.79159,-10.09577 5.27692,-18.2212 4.08304,-7.39664 7.06781,-16.62584 15.46508,-47.81941 l 10.40554,-38.6538 17.3248,-26.25 c 21.36114,-32.36576 29.76504,-50.00375 32.75702,-68.75 1.81954,-11.40032 2.75382,-13.87462 10.61993,-28.12545 9.51967,-17.24655 8.86164,-16.58581 38.76416,-38.92291 8.47643,-6.33188 15.57488,-11.62449 15.77433,-11.76138 1.05912,-0.72686 -14.78467,-59.91947 -22.28693,-83.26429 -7.95771,-24.76204 -8.70071,-27.98004 -8.70071,-37.68377 l 0,-10.60974 -8.97966,-7.94123 c -8.54152,-7.55377 -9.41628,-8.85608 -17.92827,-26.69123 -7.76788,-16.27605 -9.31028,-20.70246 -11.68972,-33.54762 -2.25889,-12.1943 -2.5989,-17.25226 -1.93271,-28.75 0.70881,-12.23329 0.40625,-15.84151 -2.45562,-29.28478 -4.02006,-18.88381 -4.01008,-20.85518 0.27132,-53.58656 l 3.4557,-26.41897 11.13997,-12.95603 c 6.12699,-7.12583 16.22589,-18.51955 22.44199,-25.31939 l 11.302,-12.36335 24.375,-11.77931 24.375,-11.779313 35,-1.198412 35,-1.198413 18.125,3.855789 c 18.07679,3.845533 18.17275,3.884395 36.07661,14.610699 17.75356,10.63626 18.07074,10.9053 28.75,24.38728 5.93912,7.4978 13.04839,17.69962 15.79839,22.67072 2.75,4.97108 7.00335,11.82143 9.4519,15.223 3.81749,5.30332 9.13119,17.22537 11.71486,26.28395 0.40775,1.4296 0.87454,28.9921 1.0373,61.25 l 0.29594,58.65071 -5.87796,9.00945 c -3.23289,4.95519 -6.83368,10.86144 -8.00178,13.125 -1.16808,2.26355 -5.41362,7.28821 -9.43453,11.1659 l -7.31073,7.05035 0,26.69539 c 0,25.22138 0.17456,27.21953 3.16137,36.18813 2.03436,6.10859 4.49102,10.76662 6.89108,13.06603 l 3.72969,3.57327 10.92144,-5.30775 c 7.74654,-3.76478 15.22979,-6.19006 25.74204,-8.34283 11.71079,-2.39823 17.08774,-4.2474 25.625,-8.81264 5.94242,-3.17765 16.99188,-8.44364 24.55438,-11.70219 l 13.75,-5.92462 31.25,-0.84908 c 17.1875,-0.46699 41.2714,-1.86569 53.51976,-3.10822 19.97047,-2.02592 23.51962,-2.07734 34.375,-0.49817 7.33291,1.06675 13.0092,2.57202 14.39819,3.81817 3.49091,3.13191 37.045,54.1006 45.4439,69.02918 12.3293,21.91484 15.9017,32.88829 24.1969,74.32463 3.5978,17.97156 3.9315,21.47642 3.2907,34.55729 -0.7001,14.29203 -0.6381,14.74755 3.3999,25 2.2621,5.74348 5.5666,13.2986 7.3433,16.78913 4.42,8.68339 9.2715,24.13164 11.3657,36.19133 1.516,8.73021 2.8453,11.82391 10.2049,23.75 4.654,7.54174 11.2498,17.85371 14.6573,22.9155 8.5197,12.65556 19.3758,31.99125 26.7982,47.72966 3.4194,7.2506 10.4435,20.46935 15.609,29.375 5.8496,10.0849 10.9194,20.79634 13.4418,28.3994 3.9118,11.79141 4.3991,12.55799 14.3025,22.5 5.639,5.66098 10.9425,11.205 11.7855,12.32005 0.843,1.11504 3.1606,8.14629 5.1501,15.625 1.9896,7.4787 5.3178,18.09764 7.3961,23.59764 2.0783,5.5 5.0058,15.41519 6.5056,22.03376 l 2.727,12.03376 -2.7257,12.96624 c -3.9684,18.8785 -11.7334,39.35919 -17.7477,46.81103 -2.7323,3.38536 -8.2675,10.99541 -12.3006,16.91122 -6.9165,10.14544 -8.1716,11.28796 -22.1101,20.12713 -8.1275,5.1542 -16.6054,10.3128 -18.8398,11.4636 -2.2528,1.1604 -4.0433,3.0526 -4.0194,4.2479 0.024,1.1854 1.7533,6.3741 3.8437,11.5304 2.7381,6.7539 4.0892,12.695 4.8323,21.25 0.8243,9.4875 2.0552,14.3881 6.1225,24.375 5.0447,12.3866 5.0912,12.6478 5.1247,28.8024 l 0.034,16.3025 -5.625,14.8262 c -3.0937,8.1544 -5.625,15.7577 -5.625,16.8961 0,4.7342 -2.9216,6.2956 -14.375,7.6824 -6.1875,0.7492 -11.4258,1.5294 -11.6407,1.7337 -0.2149,0.2043 0.3881,6.4769 1.34,13.9391 1.5945,12.4981 1.5514,14.2077 -0.5467,21.6886 -2.8307,10.0934 -2.8535,13.3035 -0.1757,24.7525 1.7765,7.5949 1.8839,10.0587 0.6411,14.7054 -4.4623,16.684 1.0025,59.7592 12.8352,101.1711 11.0612,38.712 15.0202,54.7626 14.0993,57.1625 -0.4491,1.1705 -2.8676,2.4457 -5.5493,2.9262 -18.2557,3.2709 -72.8874,17.7481 -89.5964,23.7426 l -19.8431,7.1189 -33.5977,-0.5671 -33.59768,-0.567 -5.06547,5.4044 c -2.786,2.9725 -5.73763,5.4266 -6.55915,5.4537 -0.82153,0.028 -15.43184,0.541 -32.46738,1.1421 l -30.9737,1.093 -7.7763,4.037 c -4.27696,2.2203 -15.0888,8.6834 -24.0263,14.3625 l -16.25,10.3255 -28.125,0.6685 c -24.10361,0.573 -30.09101,1.1219 -41.875,3.8392 -7.5625,1.7437 -16.50288,3.1846 -19.86752,3.2017 -5.48139,0.028 -6.54851,0.5188 -10.262,4.7188 -2.27946,2.5781 -5.65009,8.625 -7.4903,13.4375 -1.8402,4.8125 -5.62295,11.749 -8.4061,15.4143 -5.61796,7.3989 -24.73391,23.6849 -28.84131,24.5717 -2.1848,0.4717 -60.69859,5.6733 -63.52629,5.6472 -0.49144,0 -1.39883,-0.9926 -2.01643,-2.1957 z"
